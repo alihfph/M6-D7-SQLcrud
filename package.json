@@ -1,7 +1,7 @@
 {
   "name": "m6-d7-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Create modules/:moduleId/tutor/:tutorId",
   "main": "index.js",
   "scripts": {
     "prestart": "npm run setup",
@@ -18,5 +18,13 @@
     "express": "^4.17.1",
     "nodemon": "^2.0.7",
     "pg": "^8.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihfph/M6-D7-SQLcrud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alihfph/M6-D7-SQLcrud/issues"
+  },
+  "homepage": "https://github.com/alihfph/M6-D7-SQLcrud#readme"
 }
